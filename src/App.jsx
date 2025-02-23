@@ -1,5 +1,5 @@
 import './App.css'
-import Quotable from './component/Quotable'
+import Quotable from './component/Quotable_instructions'
 
 function App() {
 
